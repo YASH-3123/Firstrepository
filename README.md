@@ -1,2 +1,3 @@
 # Firstrepository
-this is my first github repositry
+this is my first github repositry.
+Auther-Yash niwlikar
